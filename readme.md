@@ -1,1 +1,1 @@
-THis is Chris' first Git project
+This is Chris' first Git project!
